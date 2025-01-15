@@ -1,0 +1,2 @@
+# MoveIT
+A transportation management mobile app built on Android Studio/Java. The main purpose of this application was to provide ease to people that use local transport as their daily commute. The users can add their current location and their destination, the app in real-time generates a route and provides various options of public transport the user can take and their specific arrival and depature time.
